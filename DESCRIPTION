@@ -1,8 +1,8 @@
 Package: metatest
 Type: Package
 Title: Fit and test metaregression models
-Version: 1.0-1
-Date: 2011-01-18
+Version: 1.0-2
+Date: 2011-10-04
 Author: Hilde M. Huizenga & Ingmar Visser
 Maintainer: Ingmar Visser <i.visser@uva.nl>
 Description: This package fits meta regression models and generates a
@@ -14,6 +14,6 @@ License: GPL
 LazyLoad: yes
 Repository: CRAN
 Repository/R-Forge/Project: metatest
-Repository/R-Forge/Revision: 12
-Date/Publication: 2011-01-25 16:56:14
-Packaged: 2011-01-20 21:52:18 UTC; rforge
+Repository/R-Forge/Revision: 15
+Date/Publication: 2011-10-06 11:11:21
+Packaged: 2011-10-05 21:05:58 UTC; rforge
